@@ -11,7 +11,7 @@
 This project aims to develop a comprehensive sales analysis dashboard using Power BI to provide insights into sales performance, identify trends, and support data-driven decision-making.
 The dashboard will integrate and visualize data, and offer detailed analyses to help understand sales dynamics, customer behavior, and market conditions. 
 In this project, I independently raised some questions and try to slove it by analysis and visually represented their answers.  
-The questions are 
+
 
 
 
